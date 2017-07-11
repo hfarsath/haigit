@@ -4,6 +4,7 @@ public class higit {
 	public static void main(String arg[])
 	{
 		System.out.println("Hai git");
+		System.out.println("Hello world");
 	}
 
 }
